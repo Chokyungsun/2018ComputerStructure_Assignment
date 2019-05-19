@@ -1,0 +1,13 @@
+Kyungsun Cho (8):
+      First commit, add parsing function and data_save function
+      Second commit, add text function(editing for adpoting la command)
+      Third commit, editing some errors and arranging the text. (need to treat array data part)
+      .o file test
+      Forth commit, add hextodinary and decimaltobinary function.
+      Fifth commit, edit hextobinary func and decimaltobinary func. now, it can write data and text size on the object file.
+      commit contribution.txt
+      Final commit, arrange the code and add data value output. But I didn't put on the object file, because I couldn't put the instructions code on the file.
+
+Wonkyo Choe (1):
+      Initial commit
+

@@ -1,0 +1,10 @@
+Kyungsun Cho (5):
+      First commit: parsing instr
+      Second commit: parsing data
+      Third commit: run.c (working well for example1 and 4, not for the others)
+      Firth commit: correct the lw and sw error(working well except halted examples)
+      Final commit: satisfy for every examples
+
+Wonkyo Choe (1):
+      Initial commit
+
