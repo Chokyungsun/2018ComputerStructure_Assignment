@@ -19,5 +19,3 @@ $ ./assembler sample_input/example1.s   # This will produce sample_input/example
 $ make test # This will test all examples in sample_output
 ```
 
-## Q & A
-If you find any errors in this code or have a question, please leave it on AjouBB.
