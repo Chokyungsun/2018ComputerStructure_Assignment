@@ -12,7 +12,7 @@
 <br>
 
 
-:point_right: It's assignments from OS class. The codes are not perfect.
+:point_right: It's assignments from Computer Structure class. The codes are not perfect.
 
 <h2> > The List</h2>
 
